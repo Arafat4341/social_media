@@ -1,0 +1,156 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, Sans-serif, Helvetica;
+	font-size: 14px;
+
+}
+body{
+	background-color: #e9ebee;;
+}
+.bb{
+	background-color: #fff;
+
+}
+.msg{
+	margin-left: 4px;
+}
+.frnd{
+	text-align: center;
+}
+.lf{
+	margin-top: 5px;
+}
+.header{
+	background-color: #1B7AB0;
+	height: 57px;
+	padding-right: auto;
+	padding-left: auto;
+}
+.logo{
+	margin-top: -7px;
+}
+.logo h3{
+	color: #fff;
+    margin-left: 90px;
+}
+.searchbox{
+	margin-top: 11px;
+}
+
+.navbar{
+	margin-top: 8px;
+}
+.navbar ul li a{
+	color: #fff;
+	font-size: 14px;
+}
+.sl,.fl{
+	margin-top: 8px;
+}
+.sl,.fl h4{
+	color: #1B7AB0;
+}
+.sform{
+	margin-top: 5px;
+}
+.probody{
+	border: 1px solid silver;
+	padding: 20px;
+}
+.textheader{
+	background-color:silver;
+	padding-right: 10px;
+	width: 184px;
+}
+.textheader h5{
+	text-align: center;
+}
+.frnrq{
+	background-color: #fff;
+	margin-top: 20px;
+	border: 1px solid silver;
+	border-radius: 4px;
+	padding: 20px; 
+}
+.profileLeftSideContent{
+	height: 230px;
+	margin: 0;
+	padding: 0;
+	width: 184px;
+}
+.profileLeftSideContent p{
+	padding: 6px;
+	text-align: justify;
+}
+.pp{
+	margin: 0;
+	padding: 0;
+	width: 184px;
+	border: 5px solid white;
+	border-radius: 4px;
+}
+.bs{
+	border-radius: 0px;
+}
+.bp{
+	margin: 0;
+	padding: 0;
+}
+.bp form{
+	margin-bottom: 5px;
+	margin-top: 5px;
+}
+.lpi{
+	margin: 0;
+	padding: 0;
+}
+.lp{
+	margin: 0;
+	padding: 0;
+}
+.lp img{
+	margin-top: 5px;
+}
+.us{
+	background-color: #f6f7f9;
+
+}
+.postform{
+	border: 1px solid silver;
+	border-radius: 2px;
+}
+.postform textarea{
+	margin-left: -15px;
+	width: 630px;
+	margin-left: -9px;
+}
+.postform button{
+	float: right;
+	margin-top: 3px;
+    margin-right: -8px;
+    margin-bottom: 4px;
+}
+
+.profilepost{
+	
+	background-color: #e9ebee;
+}
+.posts{
+	background-color: white;
+	border: 1px solid silver;
+	border-radius: 2px;
+	margin-top: 15px;
+}
+.posts span{
+	color: #90949c;
+	font-size: 12px;
+}
+.posts a{
+	color: #365899;
+	font-weight: bold;
+}
+.brdr{
+	margin-bottom: 10px;
+	/*border-bottom: 1px solid silver;*/
+}
